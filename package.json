@@ -1,6 +1,6 @@
 {
-  "name": "nest-emitter",
-  "version": "1.1.0",
+  "name": "@r6stats/nest-emitter",
+  "version": "1.1.1",
   "description": "Strongly Typed Eventemitter Module For Nestjs Framework",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nestjsx/nest-emitter.git"
+    "url": "git+https://github.com/R6Stats/nest-emitter.git"
   },
   "keywords": [
     "nestjs",
